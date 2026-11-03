@@ -1,0 +1,2 @@
+# Booktrack-a-console-based-digital-system-to-manage-borrowed-books-and-due-date-
+Our project is a Console-Based Digital System to Manage Borrowed Books and Due Dates. It is designed to help libraries organize book records, monitor borrowed and returned books, and keep track of due dates. It makes managing library transactions easier, faster, and more organized while reducing errors from manual record-keeping.
